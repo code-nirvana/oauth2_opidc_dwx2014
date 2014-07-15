@@ -1,0 +1,9 @@
+D:\temp\AuthorizationServer\AuthorizationServer\Constants\bin\Debug\Constants.dll
+D:\temp\AuthorizationServer\AuthorizationServer\Constants\bin\Debug\Constants.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\Constants\obj\Debug\Constants.dll
+D:\temp\AuthorizationServer\AuthorizationServer\Constants\obj\Debug\Constants.pdb
+C:\Users\am\Documents\Entwicklung\Privat\DWX2014\OAuth2ServerWithOWINMiddleware\Constants\bin\Debug\Constants.dll
+C:\Users\am\Documents\Entwicklung\Privat\DWX2014\OAuth2ServerWithOWINMiddleware\Constants\bin\Debug\Constants.pdb
+C:\Users\am\Documents\Entwicklung\Privat\DWX2014\OAuth2ServerWithOWINMiddleware\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+C:\Users\am\Documents\Entwicklung\Privat\DWX2014\OAuth2ServerWithOWINMiddleware\Constants\obj\Debug\Constants.dll
+C:\Users\am\Documents\Entwicklung\Privat\DWX2014\OAuth2ServerWithOWINMiddleware\Constants\obj\Debug\Constants.pdb
